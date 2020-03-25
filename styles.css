@@ -1,0 +1,56 @@
+/* font-family: 'Caveat Brush', cursive;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Questrial', sans-serif;*/
+body {
+  background-color: #d1f5d3;
+  text-align: center;
+  font-family: 'Questrial', sans-serif;
+}
+
+h1 {
+  font-family: 'Caveat Brush', cursive;
+}
+
+h2 {
+  font-family: 'Quicksand', sans-serif;
+}
+
+h3 {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+}
+
+.web {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.profilepic {
+  border-radius: 100%;
+  width: 10%;
+  height: 10%;
+}
+
+.quarantinepic {
+ width: 10%;
+ height: 10%;
+}
+
+.foodpic {
+  width: 70%;
+}
